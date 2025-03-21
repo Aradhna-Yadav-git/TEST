@@ -1,2 +1,2 @@
 {{config(materialized='table')}}
-select 'NEHA' as name
+select 'NEARA' as name
